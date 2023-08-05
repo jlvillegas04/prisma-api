@@ -49,4 +49,3 @@ Built with:
 - [Juan Villegas ](https://github.com/jlvillegas04)
 - [Andry Peña](https://github.com/andrystylist)
 - [Erick Carrasco](https://github.com/erickfabiandev)
-- 
