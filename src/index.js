@@ -30,7 +30,6 @@ app.get('/api/users', async (req, res) => {
 app.post('/api/users', async (req, res) => {
     try{
         const newUser = req.body
-        console.log('--- AC - req.body: ', req.body)
         const createdUser = await prisma.users.create({
             data: { 
                 fullname: newUser.fullname,
